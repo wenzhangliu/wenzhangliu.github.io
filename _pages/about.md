@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Brief Bio
+# Brief Bio (Wen-Zhang Liu, 柳文章)
 
 I am currently a research scientist in School of Artificial Intelligence, Anhui University. 
 Before that, I have finished my Ph.D. research in School of Automation, Southeast University, 
