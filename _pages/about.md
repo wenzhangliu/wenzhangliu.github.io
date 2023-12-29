@@ -66,6 +66,7 @@ I am interested in deep reinforcement learning, multi-agent reinforcement learni
 - **Wenzhang Liu**, Lu Dong, Dan Niu, Changyin Sun: Efficient Exploration for Multi-Agent Reinforcement Learning via Transferable Successor Features. IEEE CAA J. Autom. Sinica 9(9): 1673-1686 (2022)
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9865022)]
 [[Code](https://github.com/wenzhangliu/maddpg-sfkt.git)]
+[[Videos](https://www.youtube.com/watch?v=w0kscgRTGz8)]
 
 - **Wenzhang Liu**, Lu Dong, Jian Liu, Changyin Sun: Knowledge transfer in multi-agent reinforcement learning with incremental number of agents. Journal of systems engineering and electronics. 33(2): 447-460 (2022)
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9775069)]
