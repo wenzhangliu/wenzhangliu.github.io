@@ -19,10 +19,7 @@ redirect_from:
 
 # Brief Bio (Wen-Zhang Liu, 柳文章)
 
-I am currently a research scientist in School of Artificial Intelligence, Anhui University. 
-Before that, I have finished my Ph.D. research in School of Automation, Southeast University, 
-and joint in Peng Cheng Laboratory as a intern student.
-I am interested in deep reinforcement learning, multi-agent reinforcement learning, transfer learning, and robot learning, etc. My research goal is to develop a versatile agent(s) with general intelligence.
+Presently, I serve as a research scientist at the School of Artificial Intelligence, Anhui University. Prior to this role, I successfully completed my Ph.D. research at the School of Automation, Southeast University. During that period, I also engaged in an internship at Peng Cheng Laboratory. My research focus encompasses deep reinforcement learning, multi-agent reinforcement learning, transfer learning, and robot learning, among other areas. My overarching objective is to contribute to the development of versatile agents endowed with general intelligence.
 
 <!-- 
 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> 
