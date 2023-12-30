@@ -92,8 +92,10 @@ Presently, I serve as a research scientist at the School of Artificial Intellige
 
 - 王轶默, 刘剑, 许一航, 薛磊, **柳文章**. 一种基于特征共享的自学习迁移方法[P]. 江苏省：CN112990340A,2021-06-18.
 
+<!-- # Software Copyright -->
+
 # 🎖 Honors and Awards
-- *2022.08* Kun Jiang, Jingyu Cao, **Wenzhang Liu** and Lu Dong. The 2022 RoboMaster Sim2Real Challenge Third Prize, 2022 IEEE Conference on Games. (Organized by IEEE Computational Intelligence Society)
+- *2022.08*, Kun Jiang, Jingyu Cao, **Wenzhang Liu** and Lu Dong. The 2022 RoboMaster Sim2Real Challenge Third Prize, 2022 IEEE Conference on Games. (Organized by IEEE Computational Intelligence Society)
 
 # 📖 Educations
 - *2016.08 - 2021.12*, Doctor, School of Automation, Southeast University, Nanjing, P.R.China.
