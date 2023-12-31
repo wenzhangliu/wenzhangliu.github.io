@@ -36,11 +36,8 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
   github           : "wenzhangliu"
   google_plus      :
-  keybase          :
-  instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -50,14 +47,9 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
   twitter          : 
   vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/wenzhang-liu"
+  zhihu            : "wenzhang-liu"
 
 
 # Reading Files
