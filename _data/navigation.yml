@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Brief Bio"
-    url: "/#-about-me"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "CN Patents"
-    url: "/#-cn-patents"
+    url: "/#cn-patents"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -19,7 +19,7 @@ main:
     url: "/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
