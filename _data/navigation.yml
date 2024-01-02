@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Brief Bio"
+    url: "/#-brief-bio"
 
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "CN Patents"
+    url: "/#-cn-patents"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

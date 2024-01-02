@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='brief-bio'></span>
 
 # Brief Bio (Wen-Zhang Liu, 柳文章)
 
@@ -31,7 +31,7 @@ Presently, I serve as a research scientist at the School of Artificial Intellige
 - *2023.12.25*: &nbsp;🎉🎉 Merry Christmas! The paper of XuanCe is online: [https://arxiv.org/abs/2312.16248](https://arxiv.org/abs/2312.16248). 
 - *2023.05.22*: &nbsp;🎉🎉 We have released XuanCe: [https://github.com/agi-brain/xuance](https://github.com/agi-brain/xuance) on GitHub, an open-source deep reinforcement learning library. Welcome to star and use! 
 
-# 📝 Publications 
+# 📃 Publications 
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -82,7 +82,7 @@ Presently, I serve as a research scientist at the School of Artificial Intellige
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet, A, B, C, **CVPR 2020** 
 -->
 
-# CN Patens
+# 🔏 CN Patens
 
 - **柳文章**, 柯亚男, 任璐, 孙长银. 基于近端策略优化的多无人艇深度强化学习协同导航方法[P]. 安徽省：CN117168468A,2023-12-05.
 
@@ -94,14 +94,14 @@ Presently, I serve as a research scientist at the School of Artificial Intellige
 
 <!-- # Software Copyright -->
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2022.08*, Kun Jiang, Jingyu Cao, **Wenzhang Liu** and Lu Dong. The 2022 RoboMaster Sim2Real Challenge Third Prize, 2022 IEEE Conference on Games. (Organized by IEEE Computational Intelligence Society)
 
-# 📖 Educations
+# 🎓 Educations
 - *2016.08 - 2021.12*, Doctor, School of Automation, Southeast University, Nanjing, P.R.China.
 - *2012.08 - 2016.06*, Bachelor, Department of Control Science and Engineering, Jilin University, Changchun, P.R.China.
 
-# 💬 Invited Talks
+# 🎙️ Invited Talks
 - *2023.11.11*, 从深度强化学习到多智能体强化学习：算法、结构、机遇和挑战, 第十七届吉林省科协青年科学家论坛——AI创新与发展，（会议主办方：吉林省科学技术协会）. 
 - *2018.10.18*, A broad neural network structure for class incremental learning, 第二十届海峡两岸信息技术研讨会（CSIT2018），（会议主办方：东南大学）. 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
