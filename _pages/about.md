@@ -36,3 +36,7 @@ redirect_from:
 
 <span class='anchor' id='group-members'></span>
 {% include_relative sources/group_members.md %}
+
+<span class='anchor' id='contact'></span>
+{% include_relative sources/contact.md %}
+
