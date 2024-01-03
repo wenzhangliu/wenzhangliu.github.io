@@ -26,3 +26,6 @@ main:
 
   - title: "Group Members"
     url: "/#group-members"
+
+  - title: "Contact"
+    url: "/#contact"
