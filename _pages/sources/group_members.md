@@ -1,4 +1,4 @@
-# 🇺🇳 Group Members
+# 🇺🇳 Research Group
 
 ## Leadership
 
