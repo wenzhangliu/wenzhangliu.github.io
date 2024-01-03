@@ -33,3 +33,6 @@ redirect_from:
 {% include_relative sources/invited_talks.md %}
 
 {% include_relative sources/internships.md %}
+
+<span class='anchor' id='group-members'></span>
+{% include_relative sources/group_members.md %}
