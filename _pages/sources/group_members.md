@@ -1,5 +1,13 @@
 # 🇺🇳 Group Members
 
+## Leadership
+
+- Changyin Sun, professor, vice-principal, School of Artificial Intelligence, Anhui University.
+
+- Lu Ren, associate professor, School of Artificial Intelligence, Anhui University.
+
+- Wenzhang Liu, School of Artificial Intelligence, Anhui University.
+
 ## Graduate Student
 
 - Baolin Shu, Grade 2 (Sep 2022-), thesis topic: deep reinforcement learning model compressing with policy distillations.
