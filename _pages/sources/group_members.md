@@ -34,13 +34,24 @@
 
 <!-- From freshman, sophomore, junior, to senior. -->
 
-- Minghui Lu, junior, Major: Robot Engineering, School of Artificial Intelligence, AHU.
-- Yuhang Teng, junior, Major: Robot Engineering, School of Artificial Intelligence, AHU.
-- Junjie He, sophomore, Major: Robot Engineering, School of Artificial Intelligence, AHU.
-- Qihua Wang, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, AHU.
-- Ye Zheng, sophomore, Major: Robot Engineering, School of Artificial Intelligence.
-- Zhouhui Chen, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, AHU.
-- Zhen Wang, sophomore, Major: Robot Engineering, School of Artificial Intelligence, AHU.
-- Wentao Wei, sophomore, Major: Robot Engineering, School of Artificial Intelligence, AHU.
-- Chuchu Yan, sophomore, Major: Robot Engineering, School of Artificial Intelligence, AHU.
-- Yiming Guan, sophomore, Major: Applied Physics, Stone Brook Institute, AHU.
+- Minghui Lu, junior, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
+- Yuhang Teng, junior, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
+- Chuchu Yan, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
+- Junjie He, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
+- Qihua Wang, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, Anhui University.
+
+- Wentao Wei, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
+- Ye Zheng, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
+- Yiming Guan, sophomore, Major: Applied Physics, Stone Brook Institute, Anhui University.
+
+- Zhen Wang, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
+- Zhouhui Chen, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, Anhui University.
+
+
