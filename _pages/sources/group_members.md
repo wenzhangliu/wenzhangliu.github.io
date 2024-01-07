@@ -4,18 +4,15 @@
 
 - Changyin Sun, professor, vice-principal, School of Artificial Intelligence, Anhui University.
 
-- Lu Ren, associate professor, School of Artificial Intelligence, Anhui University.
-
-- Wenzhang Liu, School of Artificial Intelligence, Anhui University.
-
 ## Collaborators
+
+- Lu Ren, associate professor, School of Artificial Intelligence, Anhui University.
 
 - Wenzhe Cai, Ph.D. candidate, School of Automation, Southeast University. Research interests: deep reinforcement learning, indoor vision navigation, embodied AI, etc. [Homepage](https://wzcai99.github.io/)
 
 - Kun Jiang, Ph.D. candidate, School of Automation, Southeast University. Research interests: deep reinforcement learning, multi-agent reinforcement learning.
 
 - Xinyue Liang, Ph.D. candidate, School of Artificial Intelligence, Anhui University. Research interests: spiking neural networks, deep reinforcement learning.
-
 
 ## Graduate Student
 
