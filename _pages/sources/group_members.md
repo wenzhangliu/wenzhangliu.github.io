@@ -10,8 +10,6 @@
 
 ## Collaborators
 
-- Lu Dong, associate professor, School of Cyber Science and Engineering, Southeast University, P.R.China. Research interests: artificial intelligence, deep reinforcement learning, multi-agent systems. [Homepage](https://cyber.seu.edu.cn/_s303/dl/list.psp)
-
 - Wenzhe Cai, Ph.D. candidate, School of Automation, Southeast University. Research interests: deep reinforcement learning, indoor vision navigation, embodied AI, etc. [Homepage](https://wzcai99.github.io/)
 
 - Kun Jiang, Ph.D. candidate, School of Automation, Southeast University. Research interests: deep reinforcement learning, multi-agent reinforcement learning.
