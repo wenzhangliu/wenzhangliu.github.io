@@ -9,7 +9,7 @@
 title                    : "wenzhang liu"
 description              : "Reseach scientist in School of Artificial Intelligence, Anhui University. "
 repository               : "wenzhangliu/wenzhangliu.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false  # default is true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
