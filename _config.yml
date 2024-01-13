@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "wenzhang liu"
-description              : "I am Focusing on deep reinforcement learning and multi-agent reinforcment learning."
+description              : "I am focusing on deep reinforcement learning and multi-agent reinforcment learning."
 repository               : "wenzhangliu/wenzhangliu.github.io"
 google_scholar_stats_use_cdn : false  # default is true
 
