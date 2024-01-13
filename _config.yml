@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "wenzhang liu"
-description              : "Reseach scientist in School of Artificial Intelligence, Anhui University. "
+description              : "Research scientist in School of AI, Anhui University. Focusing on deep reinforcement learning and multi-agent reinforcment learning."
 repository               : "wenzhangliu/wenzhangliu.github.io"
 google_scholar_stats_use_cdn : false  # default is true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wen-Zhang Liu"
   avatar           : "images/my_profile.jpeg"
-  bio              : "School of Artificial Intelligence, Anhui University"
+  bio              : "School of AI, Anhui University"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
