@@ -56,6 +56,10 @@
 
 - Yiming Guan, sophomore, Major: Applied Physics, Stone Brook Institute, Anhui University.
 
+- Yangyang Song, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, Anhui University.
+
+- Yingyu Jie, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
+
 - Zhen Wang, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
 
 - Zhouhui Chen, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, Anhui University.
