@@ -33,7 +33,7 @@
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0019057823000071)]
 [[BibTex](/_pages/sources/citations/wang2023cooperative.md)]
 
-- **Wenzhang Liu**, Lu Dong, Dan Niu, Changyin Sun: Efficient Exploration for Multi-Agent Reinforcement Learning via Transferable Successor Features. IEEE CAA J. Autom. Sinica 9(9): 1673-1686 (2022)
+- **Wenzhang Liu**, Lu Dong, Dan Niu, Changyin Sun: Efficient exploration for multi-agent reinforcement learning via transferable successor features. IEEE CAA J. Autom. Sinica 9(9): 1673-1686 (2022)
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9865022)]
 [[BibTex](/_pages/sources/citations/liu2022efficient.md)]
 [[Code](https://github.com/wenzhangliu/maddpg-sfkt.git)]
@@ -44,7 +44,7 @@
 [[BibTex](/_pages/sources/citations/liu2022knowledge.md)]
 [[Code](https://github.com/wenzhangliu/maddpg-ina.git)]
 
-- Changyin Sun, **Wenzhang Liu**, Lu Dong: Reinforcement Learning With Task Decomposition for Cooperative Multiagent Systems. IEEE Trans. Neural Networks Learn. Syst. 32(5): 2054-2065 (2021)
+- Changyin Sun, **Wenzhang Liu**, Lu Dong: Reinforcement learning with task decomposition for cooperative multiagent systems. IEEE Trans. Neural Networks Learn. Syst. 32(5): 2054-2065 (2021)
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9119863/)]
 [[BibTex](/_pages/sources/citations/sun2020reinforcement.md)]
 
@@ -52,7 +52,7 @@
 [[Paper](https://ieeexplore.ieee.org/abstract/document/8996875/)]
 [[BibTex](/_pages/sources/citations/sun2019model.md)]
 
-- **Wenzhang Liu**, Haiqin Yang, Yuewen Sun, Changyin Sun: A Broad Neural Network Structure for Class Incremental Learning. Advances in Neural Networks–ISNN 2018: 15th International Symposium on Neural Networks: 229-238
+- **Wenzhang Liu**, Haiqin Yang, Yuewen Sun, Changyin Sun: A broad neural network structure for class incremental learning. Advances in Neural Networks–ISNN 2018: 15th International Symposium on Neural Networks: 229-238
 [[Paper](https://www.researchgate.net/profile/Haiqin-Yang-2/publication/325366026_A_Broad_Neural_Network_Structure_for_Class_Incremental_Learning/links/6131bbe30360302a007660be/A-Broad-Neural-Network-Structure-for-Class-Incremental-Learning.pdf)]
 [[BibTex](/_pages/sources/citations/liu2018broad.md)]
 
