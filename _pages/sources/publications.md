@@ -16,7 +16,7 @@
 
 - Kun Jiang, **Wenzhang Liu**, Yuanda Wang, Lu Dong, Changyin Sun: Discovering latent variables for the tasks with confounders in multi-agent reinforcement learning. IEEE CAA J. Autom. Sinica (2024)
 
-- **Wenzhang Liu**, Wenzhe Cai, Kun Jiang, Guangran Cheng, Yuanda Wang, Jiawei Wang, Jingyu Cao, Lele Xu, Chaoxu Mu, Changyin Sun: XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library. arXiv:2312.16248 (2023)
+- **Wenzhang Liu**, Wenzhe Cai, Kun Jiang, Guangran Cheng, Yuanda Wang, Jiawei Wang, Jingyu Cao, Lele Xu, Chaoxu Mu, Changyin Sun: XuanCe: A comprehensive and unified deep reinforcement learning library. arXiv:2312.16248 (2023)
 [[Paper](https://arxiv.org/pdf/2312.16248.pdf)]
 [[BibTex](/_pages/sources/citations/liu2023xuance.md)]
 [[Code](https://github.com/agi-brain/xuance.git)]
