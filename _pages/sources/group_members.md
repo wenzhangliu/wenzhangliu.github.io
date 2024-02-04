@@ -14,7 +14,7 @@
 
 - Xinyue Liang, Ph.D. candidate, School of Artificial Intelligence, Anhui University. Research interests: spiking neural networks, deep reinforcement learning. -->
 
-## Graduate Student
+## Graduate Students
 
 - Baolin Shu, Grade 2 (Sep 2022-), thesis topic: deep reinforcement learning model compressing with policy distillations.
 
@@ -36,7 +36,7 @@
 
 - Jianhua Lu, Grade 1 (Sep 2023-).
 
-## Undergraduate Student
+## Undergraduate Students
 
 <!-- From freshman, sophomore, junior, to senior. -->
 
