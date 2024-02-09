@@ -14,7 +14,7 @@
 </div>
 -->
 
-- Xiang Cao, **Wenzhang Liu**, Lu Ren: Discovering latent variables for the tasks with confounders in multi-agent reinforcement learning. IEEE CAA J. Autom. Sinica (2024)
+- Xiang Cao, **Wenzhang Liu**, Lu Ren: Underwater Target Capture based on Heterogeneous Unmanned System Collaboration. Transactions on Intelligent Vehicles. (2024)
 
 - Kun Jiang, **Wenzhang Liu**, Yuanda Wang, Lu Dong, Changyin Sun: Discovering latent variables for the tasks with confounders in multi-agent reinforcement learning. IEEE CAA J. Autom. Sinica (2024)
 
