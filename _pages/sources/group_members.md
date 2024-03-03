@@ -40,28 +40,6 @@
 
 <!-- From freshman, sophomore, junior, to senior. -->
 
-- Minghui Lu, junior, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Yuhang Teng, junior, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Chuchu Yan, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Junjie He, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Qihua Wang, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, Anhui University.
-
-- Wentao Wei, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Ye Zheng, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Yiming Guan, sophomore, Major: Applied Physics, Stone Brook Institute, Anhui University.
-
-- Yangyang Song, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, Anhui University.
-
-- Yujie Ying, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Zhen Wang, sophomore, Major: Robot Engineering, School of Artificial Intelligence, Anhui University.
-
-- Zhouhui Chen, sophomore, Major: Artificial Intelligence, School of Artificial Intelligence, Anhui University.
+- Minghui Lu, Yuhang Teng, Chuchu Yan, Junjie He, Qihua Wang, Wentao Wei, Ye Zheng, Yiming Guan, Yangyang Song, Yujie Ying, Zhen Wang, Zhouhui Chen.
 
 
