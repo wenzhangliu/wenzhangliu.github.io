@@ -1,3 +1,9 @@
+.idea
 _site/
 push.sh
 .DS_Store
+
+.vscode
+**/.DS_Store
+**/__pycache__
+.pypirc

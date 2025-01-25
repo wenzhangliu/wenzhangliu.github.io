@@ -14,9 +14,24 @@
 </div>
 -->
 
-<!-- - Kun Jiang, **Wenzhang Liu**, Yuanda Wang, Lu Dong, Changyin Sun: Discovering latent variables for the tasks with confounders in multi-agent reinforcement learning. IEEE CAA J. Autom. Sinica (2024) -->
+- Xingyue Liang, Qiaoyun Wu, **Wenzhang Liu**, Yun Zhou, Chunyu Tan, Hongfu Yin, Changyin Sun: Intrinsic plasticity coding improved spiking actor network for reinforcement learning. Neural Networks. 184, 107054. (2025)
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024009833)]
+[[BibTex](/_pages/sources/citations/liang2025intrinsic.md)]
+
+- Xiang Cao, Jing Peng, **Wenzhang Liu**, Lu Ren, Changyin Sun: AUV collision avoidance strategy based on fuzzy reinforcement learning. IEEE Transactions on Intelligent Vehicles. (2024)
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10601514/)]
+[[BibTex](/_pages/sources/citations/cao2024auv.md)]    
+
+- Changyin Sun, Chaoxu Mu, **Wenzhang Liu**, Xiao Wang: Embodied cognitive intelligence framework of unmanned autonomous systems. Science & Technology Review. 42(12): 157-166 (2024)
+[[Paper](http://www.kjdb.org/EN/abstract/article/1000-7857/17525)]
+[[BibTex](/_pages/sources/citations/sun2024embodied.md)]
+
+- Kun Jiang, **Wenzhang Liu**, Yuanda Wang, Lu Dong, Changyin Sun: Discovering latent variables for the tasks with confounders in multi-agent reinforcement learning. IEEE CAA J. Autom. Sinica. 11(7): 1591-1604 (2024)
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10555250/)]
+[[BibTex](/_pages/sources/citations/jiang2024discovering.md)]
 
 - Xiang Cao, **Wenzhang Liu**, Lu Ren: Underwater target capture based on heterogeneous unmanned system collaboration. IEEE Transactions on Intelligent Vehicles (2024)
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10423261/)]
 [[BibTex](/_pages/sources/citations/cao2024underwater.md)]
 
 - **Wenzhang Liu**, Wenzhe Cai, Kun Jiang, Guangran Cheng, Yuanda Wang, Jiawei Wang, Jingyu Cao, Lele Xu, Chaoxu Mu, Changyin Sun: XuanCe: A comprehensive and unified deep reinforcement learning library. arXiv:2312.16248 (2023)
