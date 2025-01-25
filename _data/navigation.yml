@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "CN Patents"
-    url: "/#cn-patents"
+#  - title: "CN Patents"
+#    url: "/#cn-patents"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
