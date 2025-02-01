@@ -14,6 +14,10 @@
 </div>
 -->
 
+- **Wenzhang Liu**, Lianjun Jin, Lu Ren, Chaoxu Mu, Changyin Sun: Reducing action space for deep reinforcement learning via causal effect estimation. arXiv:2501.14543 (2025)
+[[Paper](https://arxiv.org/pdf/2501.14543)]
+[[BibTex](/_pages/sources/citations/liu2025reducing.md)]
+
 - Xingyue Liang, Qiaoyun Wu, **Wenzhang Liu**, Yun Zhou, Chunyu Tan, Hongfu Yin, Changyin Sun: Intrinsic plasticity coding improved spiking actor network for reinforcement learning. Neural Networks. 184, 107054. (2025)
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024009833)]
 [[BibTex](/_pages/sources/citations/liang2025intrinsic.md)]
