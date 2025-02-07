@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "wenzhang liu"
-description              : "I am focusing on deep reinforcement learning and multi-agent reinforcment learning."
+description              : "I am focusing on deep reinforcement learning, multi-agent reinforcement learning, and robotics, etc."
 repository               : "wenzhangliu/wenzhangliu.github.io"
 google_scholar_stats_use_cdn : false  # default is true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wen-Zhang Liu"
   avatar           : "images/my_profile.jpeg"
-  bio              : "School of AI, Anhui University"
+  bio              : "School of Artificial Intelligence, Anhui University"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
