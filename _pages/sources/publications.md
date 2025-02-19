@@ -22,6 +22,10 @@
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024009833)]
 [[BibTex](/_pages/sources/citations/liang2025intrinsic.md)]
 
+- Baolin Shu, Wanyi Yao, Jianhua Lu, **Wenzhang Liu**: Learning to control inverted pendulum on surface with free angles through policy distillation. Chinese Automation Congress (CAC) 2024: 2750-2755
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10865313/)]
+[[BibTex](/_pages/sources/citations/shu2024learning.md)]
+
 - Xiang Cao, Jing Peng, **Wenzhang Liu**, Lu Ren, Changyin Sun: AUV collision avoidance strategy based on fuzzy reinforcement learning. IEEE Transactions on Intelligent Vehicles. (2024)
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10601514/)]
 [[BibTex](/_pages/sources/citations/cao2024auv.md)]    
