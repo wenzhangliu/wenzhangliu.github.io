@@ -20,6 +20,8 @@ redirect_from:
 
 {% include_relative sources/news.md %}
 
+{% include_relative sources/courses.md %}
+
 {% include_relative sources/publications.md %}
 
 {% include_relative sources/honors_and_awards.md %}

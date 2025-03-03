@@ -1,4 +1,4 @@
 # 🧑‍🏫 Courses
 
-- Optimization Methods
-- Embedded System
+- Optimization Methods (Info: [https://github.com/wenzhangliu/ConvexOptimizationCourse](https://github.com/wenzhangliu/ConvexOptimizationCourse))
+- Embedded System, and the experiments.
