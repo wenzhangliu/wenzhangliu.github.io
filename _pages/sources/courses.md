@@ -1,4 +1,4 @@
-# 🧑‍🏫Courses
+# 🧑‍🏫 Courses
 
 - Optimization Methods
 - Embedded System
