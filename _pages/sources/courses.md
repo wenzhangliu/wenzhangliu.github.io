@@ -5,3 +5,4 @@
   - Code: [https://github.com/wenzhangliu/ConvexOptimizationCourse](https://github.com/wenzhangliu/ConvexOptimizationCourse).
 
 - Embedded System, and the experiments.
+  - Information about the course: [https://github.com/wenzhangliu/EmbediedSystemsCourse](https://github.com/wenzhangliu/EmbediedSystemsCourse.git)
