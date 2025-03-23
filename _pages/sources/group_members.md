@@ -10,11 +10,11 @@
 
 ## Graduate Students
 
-**2022:** Baolin Shu, Haoyu Feng, Keke Yang, Lianjun Jin, Zelong Fang, Zhuoran Shi, Chen Wang, Yanan Ke.
+**2024:** Kunpeng Liu, Xiaoyang Quan, Yifan Tang, Duojie Xiang.
 
 **2023:** Wanyi Yao, Jianhua Lu.
 
-**2024:** Duojie Xiang, Xiaoyang Quan, Yifan Tang, Kunpeng Liu.
+**2022:** Lianjun Jin, Keke Yang, Zhuoran Shi, Baolin Shu, Haoyu Feng, Zelong Fang, Chen Wang, Yanan Ke.
 
 ## Undergraduate Students
 
