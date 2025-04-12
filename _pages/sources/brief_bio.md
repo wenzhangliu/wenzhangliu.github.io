@@ -7,4 +7,4 @@ Presently, I serve as a research scientist at the School of Artificial Intellige
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-![Page Views Count](https://badges.toozhao.com/badges/01HK4HFZCJF5NTCB66NC5ZZ984/blue.svg)
+[//]: # (![Page Views Count]&#40;https://badges.toozhao.com/badges/01HK4HFZCJF5NTCB66NC5ZZ984/blue.svg&#41;)
