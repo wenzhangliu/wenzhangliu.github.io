@@ -10,14 +10,11 @@
 
 ## Graduate Students
 
+**2025:** Hao Sheng, Jiawei Lu, Yongwei Gao, Fan Ye, Ziyuan Guo, Zhanshu Xie, Haihan Liu.
+
 **2024:** Kunpeng Liu, Xiaoyang Quan, Yifan Tang, Duojie Xiang.
 
 **2023:** Wanyi Yao, Jianhua Lu.
 
 **2022:** Lianjun Jin, Keke Yang, Zhuoran Shi, Baolin Shu, Haoyu Feng, Zelong Fang, Chen Wang, Yanan Ke.
 
-## Undergraduate Students
-
-<!-- From freshman, sophomore, junior, to senior. -->
-
-Minghui Lu, Zhen Wang, Wentao Wei, et al.

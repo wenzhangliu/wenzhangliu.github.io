@@ -14,6 +14,10 @@
 </div>
 -->
 
+- **Wenzhang Liu**, Wanyi Yao, Keke Yang, Lu Ren, Changyin Sun: Overcoming catastrophic forgetting in robotic manipulation via knowledge-compositional reinforcement learning. Neurocomputing, 664, 131800. (2025)
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231225024725)]
+[[BibTex](/_pages/sources/citations/liu2016overcoming.md)]
+
 - **Wenzhang Liu**, Lianjun Jin, Lu Ren, Chaoxu Mu, Changyin Sun: Reducing action space for deep reinforcement learning via causal effect estimation. arXiv:2501.14543 (2025)
 [[Paper](https://arxiv.org/pdf/2501.14543)]
 [[BibTex](/_pages/sources/citations/liu2025reducing.md)]
