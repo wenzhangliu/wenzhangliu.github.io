@@ -97,13 +97,13 @@
 [[Paper](https://www.researchgate.net/profile/Haiqin-Yang-2/publication/325366026_A_Broad_Neural_Network_Structure_for_Class_Incremental_Learning/links/6131bbe30360302a007660be/A-Broad-Neural-Network-Structure-for-Class-Incremental-Learning.pdf)]
 [[BibTex](/_pages/sources/citations/liu2018broad.md)]
 
-- 任璐, 柯亚男, 柳文章, 穆朝絮, 孙长银: 基于优势函数输入扰动的多无人艇协同策略优化方法. 自动化学报, 51(4): 824-834. (2025)
+- 任璐, 柯亚男, **柳文章**, 穆朝絮, 孙长银: 基于优势函数输入扰动的多无人艇协同策略优化方法. 自动化学报, 51(4): 824-834. (2025)
 
-- 孙长银, 袁心, 王远大, 柳文章: 具身智能自主无人系统技术. 自动化学报, 51(4): 762-777. (2025)
+- 孙长银, 袁心, 王远大, **柳文章**: 具身智能自主无人系统技术. 自动化学报, 51(4): 762-777. (2025)
 
-- 蒋坤, 操菁瑜, 柳文章, 孙长银, 董璐: 移动机器人导航与对抗控制的强化学习方法研究. 控制理论与应用, 42(9): 1757-1765. (2025)
+- 蒋坤, 操菁瑜, **柳文章**, 孙长银, 董璐: 移动机器人导航与对抗控制的强化学习方法研究. 控制理论与应用, 42(9): 1757-1765. (2025)
 
-- 孙悦雯, 柳文章, 孙长银: 基于因果建模的强化学习控制: 现状及展望. 自动化学报, 49(3): 661-677. (2023)
+- 孙悦雯, **柳文章**, 孙长银: 基于因果建模的强化学习控制: 现状及展望. 自动化学报, 49(3): 661-677. (2023)
 
 <!-- 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet, A, B, C, **CVPR 2020** 
