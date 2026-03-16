@@ -14,6 +14,16 @@
 </div>
 -->
 
+- Lu Ren, Zelong Fang, **Wenzhang Liu**, Chaoxu Mu, Changyin Sun: Deep reinforcement learning for UAV indoor navigation through task decomposition. IEEE/CAA Journal of Automatica Sinica, 12(12):2627-2629. (2025)
+[[Paper](https://ieeexplore.ieee.org/iel8/6570654/11321066/11321067.pdf)]
+[[BibTex](/_pages/sources/citations/ren2025deep.md)]
+[[Code](https://github.com/agi-brain/indoor_drone_navigation.git)]
+
+- Lu Ren, Zhuoran Shi, Qingchen Liu, **Wenzhang Liu**, Changyin Sun: Enhancing consumer UAV autonomy: An entropy-augmented deep reinforcement learning for autonomous navigation in dense obstacle environments. IEEE Transactions on Consumer Electronics. (2025)
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11262232)]
+[[BibTex](/_pages/sources/citations/ren2025enhancing.md)]
+[[Code](https://github.com/agi-brain/dense_navigation.git)]
+
 - **Wenzhang Liu**, Wanyi Yao, Keke Yang, Lu Ren, Changyin Sun: Overcoming catastrophic forgetting in robotic manipulation via knowledge-compositional reinforcement learning. Neurocomputing, 664, 131800. (2025)
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231225024725)]
 [[BibTex](/_pages/sources/citations/liu2016overcoming.md)]
@@ -86,6 +96,14 @@
 - **Wenzhang Liu**, Haiqin Yang, Yuewen Sun, Changyin Sun: A broad neural network structure for class incremental learning. Advances in Neural Networks–ISNN 2018: 15th International Symposium on Neural Networks: 229-238
 [[Paper](https://www.researchgate.net/profile/Haiqin-Yang-2/publication/325366026_A_Broad_Neural_Network_Structure_for_Class_Incremental_Learning/links/6131bbe30360302a007660be/A-Broad-Neural-Network-Structure-for-Class-Incremental-Learning.pdf)]
 [[BibTex](/_pages/sources/citations/liu2018broad.md)]
+
+- 任璐, 柯亚男, 柳文章, 穆朝絮, 孙长银: 基于优势函数输入扰动的多无人艇协同策略优化方法. 自动化学报, 51(4): 824-834. (2025)
+
+- 孙长银, 袁心, 王远大, 柳文章: 具身智能自主无人系统技术. 自动化学报, 51(4): 762-777. (2025)
+
+- 蒋坤, 操菁瑜, 柳文章, 孙长银, 董璐: 移动机器人导航与对抗控制的强化学习方法研究. 控制理论与应用, 42(9): 1757-1765. (2025)
+
+- 孙悦雯, 柳文章, 孙长银: 基于因果建模的强化学习控制: 现状及展望. 自动化学报, 49(3): 661-677. (2023)
 
 <!-- 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet, A, B, C, **CVPR 2020** 
