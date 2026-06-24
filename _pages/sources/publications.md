@@ -97,6 +97,8 @@
 [[Paper](https://www.researchgate.net/profile/Haiqin-Yang-2/publication/325366026_A_Broad_Neural_Network_Structure_for_Class_Incremental_Learning/links/6131bbe30360302a007660be/A-Broad-Neural-Network-Structure-for-Class-Incremental-Learning.pdf)]
 [[BibTex](/_pages/sources/citations/liu2018broad.md)]
 
+- **柳文章**, 陆建华, 任璐, 孙长银: 基于因果影响检测的多无人机海上协同导航策略优化方法. 自动化学报, 52(5): 1069-1082. (2026)
+
 - 任璐, 柯亚男, **柳文章**, 穆朝絮, 孙长银: 基于优势函数输入扰动的多无人艇协同策略优化方法. 自动化学报, 51(4): 824-834. (2025)
 
 - 孙长银, 袁心, 王远大, **柳文章**: 具身智能自主无人系统技术. 自动化学报, 51(4): 762-777. (2025)
