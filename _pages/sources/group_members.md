@@ -16,7 +16,7 @@
 
 **2025:** Fan Ye, Ziyuan Guo, Zhanshu Xie, Haihan Liu.
 
-**2024:** Xiaoyang Quan, Yifan Tang, Duojie Xiang, Kunpeng Liu.
+**2024:** Xiaoyang Quan, Yifan Tang, Duojie Xiang.
 
 ## Alumni
 
